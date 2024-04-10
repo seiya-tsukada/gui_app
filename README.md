@@ -1,4 +1,4 @@
-# gpt_gui_app
+# gui_app
 
 ## install
 
